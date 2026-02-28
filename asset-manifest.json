@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-clock-timer-alarm/static/css/main.5b466aae.css",
+    "main.js": "/react-clock-timer-alarm/static/js/main.6661a97d.js",
+    "static/js/453.6a4d1d76.chunk.js": "/react-clock-timer-alarm/static/js/453.6a4d1d76.chunk.js",
+    "index.html": "/react-clock-timer-alarm/index.html",
+    "main.5b466aae.css.map": "/react-clock-timer-alarm/static/css/main.5b466aae.css.map",
+    "main.6661a97d.js.map": "/react-clock-timer-alarm/static/js/main.6661a97d.js.map",
+    "453.6a4d1d76.chunk.js.map": "/react-clock-timer-alarm/static/js/453.6a4d1d76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b466aae.css",
+    "static/js/main.6661a97d.js"
+  ]
+}
